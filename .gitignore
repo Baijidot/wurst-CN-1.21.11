@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+out/
+bin/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Fabric
+run/
+logs/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Minecraft
+crash-reports/
+saves/
+screenshots/
+resourcepacks/
+shaderpacks/
+
+# Misc
+*.log
+*.tmp
