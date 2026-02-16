@@ -1,19 +1,44 @@
 # Wurst Client 中文版 - Minecraft 1.21.11
 
+<div align="center">
+
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green?style=flat-square)
+![Fabric](https://img.shields.io/badge/Fabric-0.17.3+-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL--3.0-red?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Baijidot/wurst-CN-1.21.11?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/Baijidot/wurst-CN-1.21.11/total?style=flat-square)
+
+**Wurst Client v7.52 的完整中文汉化版本**
+
+[下载](#下载) • [安装](#安装) • [使用](#使用方法) • [文档](#编译)
+
+</div>
+
+---
+
+## 📸 预览
+
+> 添加一些游戏内截图会大大提升吸引力！
+
+## ✨ 特性
+
 这是 Wurst Client v7.52 for Minecraft 1.21.11 的完整中文汉化版本。
 
-## 特性
+- ✅ **完整的中文界面翻译** - 所有文本都已汉化
+- ✅ **所有功能名称已汉化** - 155 个功能全部中文化
+- ✅ **所有设置和描述已汉化** - 839 个设置项完整翻译
+- ✅ **支持 Minecraft 1.21.11** - 最新版本支持
+- ✅ **开源免费** - 基于 GPL-3.0 许可证
 
-- ✅ 完整的中文界面翻译
-- ✅ 所有功能名称已汉化
-- ✅ 所有设置和描述已汉化
-- ✅ 支持 Minecraft 1.21.11
+## 🚀 快速开始
 
-## 下载
+### 下载
 
 在 [Releases](../../releases) 页面下载最新的 `Wurst-Client-v7.52-MC1.21.11-Chinese.jar` 文件。
 
-## 安装
+[![下载最新版本](https://img.shields.io/github/v/release/Baijidot/wurst-CN-1.21.11?label=下载最新版本&style=for-the-badge)](../../releases/latest)
+
+### 安装
 
 1. 确保已安装 [Fabric Loader](https://fabricmc.net/use/)
 2. 确保已安装 [Fabric API](https://modrinth.com/mod/fabric-api)
