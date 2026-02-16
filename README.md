@@ -18,7 +18,13 @@
 
 ## 📸 预览
 
-> 添加一些游戏内截图会大大提升吸引力！
+<div align="center">
+
+![Wurst Client 中文版界面](.github/screenshot.png)
+
+*完整的中文界面，所有功能一目了然*
+
+</div>
 
 ## ✨ 特性
 
